@@ -52,7 +52,6 @@ public class CauculadoraSimples {
 		double subtrai = a - b;
 		System.out.println(subtrai);
 	}
-
 	public static void multiplicar(double a, double b) {
 		double multiplica = a * b;
 		System.out.println(multiplica);
