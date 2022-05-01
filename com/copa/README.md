@@ -27,10 +27,10 @@ contém um número inteiro X (1 ≤ X ≤ N) indicando uma figurinha já comprad
 número de figurinhas que falta para completar o álbum.</p>
 
  
-<h4>Exemplos de Entrada	Exemplos de Saída</h4>
+<h4>Exemplos de Entrada	Exemplos de Sa�da</h4>
 <table>
 	<tr>
-		<td>Entrada</td><td>Saída</td>
+		<td>Entrada</td><td>Sa�da</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -50,7 +50,7 @@ número de figurinhas que falta para completar o álbum.</p>
 </table>
 <table>
 	<tr>
-		<td>Entrada</td><td>Saída</td>
+		<td>Entrada</td><td>Sa�da</td>
 	</tr>
 	<tr>
 		<td>3</td>
