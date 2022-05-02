@@ -15,3 +15,7 @@
 
 <p>O Bootcamp GFT Start Woman Java é um programa gratuito direcionado para desenvolvedoras que estão começando a jornada na tecnologia! O programa explora uma trilha completa em Java com cursos, desafios práticos e mentorias exclusivas com experts da multinacional.</p>
 <h4>Carga 55hr</h4>
+
+<hr>
+<h3>Sobre os desáfios</h3>
+<p>É apresentado um texto em forma de estória, e um trecho de código faltando elementos é disponibilizado. Temos que compretar e corrigir o código se for o caso, o sistema também realiza testes alguns teste são abertos simulando os testes previsto e outros são fechado representando os teste não previstos mas que ocorrem no mundo real.</p>
