@@ -18,4 +18,5 @@
 
 <hr>
 <h3>Sobre os desáfios</h3>
-<p>É apresentado um texto em forma de estória, e um trecho de código faltando elementos é disponibilizado. Temos que compretar e corrigir o código se for o caso, o sistema também realiza testes alguns teste são abertos simulando os testes previsto e outros são fechado representando os teste não previstos mas que ocorrem no mundo real.</p>
+<p>É apresentado um texto em forma de estória, e um trecho de código faltando elementos. Os devs têm que completar e corrigir o código se for o caso, o sistema também realiza testes alguns teste são abertos simulando os testes previsto e outros são fechado representando os rpoblemas inesperados que ocorrem no mundo real.</p>
+<p>O dev é estimulado a melhorar a solução inciau apresentada pelo professores da Dio</p>
